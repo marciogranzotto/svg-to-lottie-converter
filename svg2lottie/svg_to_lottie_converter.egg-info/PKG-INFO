@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: svg-to-lottie-converter
+Version: 1.0.0
+Summary: A small example package
+Author-email: LottieFiles <support@lottiefiles.com>
+Project-URL: Homepage, https://github.com/LottieFiles/svg-to-lottie-converter
+Project-URL: Bug Tracker, https://github.com/LottieFiles/svg-to-lottie-converter/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GNU Affero General Public License v3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# SVG to Lottie API
+
+## Requirements
+```bash
+  pip install -r requirements.txt
+
+```
